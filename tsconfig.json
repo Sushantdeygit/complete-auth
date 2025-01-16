@@ -28,7 +28,20 @@
     "**/*.tsx",
     "**/**/*.ts",
     "**/**/*.tsx",
-    ".next/types/**/*.ts"
+    ".next/types/**/*.ts",
+    "app/(protected)/client/page.jsx",
+    "app/(protected)/admin/page.jsx",
+    "app/(protected)/_components/navbar.jsx",
+    "actions/reset.js",
+    "actions/settings.js",
+    "actions/register.js",
+    "actions/new-verification.js",
+    "actions/new-password.js",
+    "actions/logout.js",
+    "actions/login.js",
+    "actions/admin.js",
+    "app/(protected)/server/page.jsx",
+    "app/(protected)/settings/page.jsx"
   ],
   "exclude": ["node_modules"]
 }
