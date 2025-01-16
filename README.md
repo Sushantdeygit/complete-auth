@@ -14,7 +14,7 @@ Before you begin, ensure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone git@github.com:diwashbhattarai999/Next-Auth-v5.git
+   git clone(https://github.com/Sushantdeygit/complete-auth.git)
 
    ```
 
@@ -63,7 +63,7 @@ Before you begin, ensure you have the following installed:
 - **Prisma**: A modern database toolkit for TypeScript and Node.js.
 - **MongoDB**: A NoSQL database for storing user data.
 
-<!-- ## Flow Diagram Of The Project
+ ## Flow Diagram Of The Project
 
 ![alt text](image-1.png)
 
@@ -109,4 +109,4 @@ Before you begin, ensure you have the following installed:
 
 ## Live Demo
 
-The application is deployed on [here](https://db-next-auth-v5.vercel.app/).
+The application is deployed on [here](https://complete-auth-one.vercel.app/)).
